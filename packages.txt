@@ -1,1 +1,2 @@
 swig
+zlib1g-dev
