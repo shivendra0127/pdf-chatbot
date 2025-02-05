@@ -1,8 +1,9 @@
+--upgrade pip
 langchain==0.0.184
 PyPDF2==3.0.1
 python-dotenv==1.0.0
-streamlit
+streamlit==1.25.0
 openai==0.27.6
-faiss-cpu==1.7.2
+faiss-cpu==1.7.4
 altair==4.0.0
-tiktoken==0.2.0
+tiktoken==0.3.0
